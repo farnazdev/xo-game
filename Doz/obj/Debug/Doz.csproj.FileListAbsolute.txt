@@ -1,0 +1,37 @@
+C:\Users\My Acer\Desktop\Doz\Doz\bin\Debug\Doz.exe.config
+C:\Users\My Acer\Desktop\Doz\Doz\bin\Debug\Doz.exe
+C:\Users\My Acer\Desktop\Doz\Doz\bin\Debug\Doz.pdb
+C:\Users\My Acer\Desktop\Doz\Doz\obj\Debug\Doz.csprojResolveAssemblyReference.cache
+C:\Users\My Acer\Desktop\Doz\Doz\obj\Debug\Doz.Form1.resources
+C:\Users\My Acer\Desktop\Doz\Doz\obj\Debug\Doz.Properties.Resources.resources
+C:\Users\My Acer\Desktop\Doz\Doz\obj\Debug\Doz.csproj.GenerateResource.Cache
+C:\Users\My Acer\Desktop\Doz\Doz\obj\Debug\Doz.exe
+C:\Users\My Acer\Desktop\Doz\Doz\obj\Debug\Doz.pdb
+C:\Users\My Acer\Desktop\Doz\Doz\obj\Debug\Doz.Formwelcome.resources
+C:\Users\My Acer\Desktop\Doz\Doz\obj\Debug\Doz.Form2.resources
+E:\یازدهم 1400-1401\توسعه و سیستم های اطلاعاتی\پودمان 4\Bazi\Doz\Doz\bin\Debug\Doz.exe.config
+E:\یازدهم 1400-1401\توسعه و سیستم های اطلاعاتی\پودمان 4\Bazi\Doz\Doz\obj\Debug\Doz.exe
+E:\یازدهم 1400-1401\توسعه و سیستم های اطلاعاتی\پودمان 4\Bazi\Doz\Doz\obj\Debug\Doz.pdb
+E:\یازدهم 1400-1401\توسعه و سیستم های اطلاعاتی\پودمان 4\Bazi\Doz\Doz\bin\Debug\Doz.exe
+E:\یازدهم 1400-1401\توسعه و سیستم های اطلاعاتی\پودمان 4\Bazi\Doz\Doz\bin\Debug\Doz.pdb
+E:\یازدهم 1400-1401\توسعه و سیستم های اطلاعاتی\پودمان 4\Bazi\Doz\Doz\obj\Debug\Doz.csprojResolveAssemblyReference.cache
+E:\یازدهم 1400-1401\توسعه و سیستم های اطلاعاتی\پودمان 4\Bazi\Doz\Doz\obj\Debug\Doz.Form1.resources
+E:\یازدهم 1400-1401\توسعه و سیستم های اطلاعاتی\پودمان 4\Bazi\Doz\Doz\obj\Debug\Doz.Form2.resources
+E:\یازدهم 1400-1401\توسعه و سیستم های اطلاعاتی\پودمان 4\Bazi\Doz\Doz\obj\Debug\Doz.Formwelcome.resources
+E:\یازدهم 1400-1401\توسعه و سیستم های اطلاعاتی\پودمان 4\Bazi\Doz\Doz\obj\Debug\Doz.Properties.Resources.resources
+E:\یازدهم 1400-1401\توسعه و سیستم های اطلاعاتی\پودمان 4\Bazi\Doz\Doz\obj\Debug\Doz.csproj.GenerateResource.Cache
+C:\Users\My Acer\Desktop\Doz\Doz\Doz\bin\Debug\Doz.exe.config
+C:\Users\My Acer\Desktop\Doz\Doz\Doz\obj\Debug\Doz.exe
+C:\Users\My Acer\Desktop\Doz\Doz\Doz\obj\Debug\Doz.pdb
+E:\Mosabeghe\1\Doz\Doz\Doz\bin\Debug\Doz.exe.config
+E:\Mosabeghe\1\Doz\Doz\Doz\obj\Debug\Doz.exe
+E:\Mosabeghe\1\Doz\Doz\Doz\obj\Debug\Doz.pdb
+E:\Mosabeghe\1\Doz\Doz\Doz\bin\Debug\Doz.exe
+E:\Mosabeghe\1\Doz\Doz\Doz\bin\Debug\Doz.pdb
+E:\Mosabeghe\1\Doz\Doz\Doz\obj\Debug\Doz.csproj.AssemblyReference.cache
+E:\Mosabeghe\1\Doz\Doz\Doz\obj\Debug\Doz.Form1.resources
+E:\Mosabeghe\1\Doz\Doz\Doz\obj\Debug\Doz.Form2.resources
+E:\Mosabeghe\1\Doz\Doz\Doz\obj\Debug\Doz.Formwelcome.resources
+E:\Mosabeghe\1\Doz\Doz\Doz\obj\Debug\Doz.Properties.Resources.resources
+E:\Mosabeghe\1\Doz\Doz\Doz\obj\Debug\Doz.csproj.GenerateResource.cache
+E:\Mosabeghe\1\Doz\Doz\Doz\obj\Debug\Doz.csproj.CoreCompileInputs.cache
