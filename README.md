@@ -14,12 +14,12 @@ It marks one of my earliest experiences in software development and user interfa
 
 ## Features
 
-🎮 Classic 2-player Tic-Tac-Toe gameplay
-🖱️ Interactive button-based grid with turn indication
-🔄 Game reset and replay option
-🧠 Winner detection and draw handling
-💡 Visual feedback for game result
-🪄 Simple and intuitive Windows UI for desktop
+- 🎮 Classic 2-player Tic-Tac-Toe gameplay
+- 🖱️ Interactive button-based grid with turn indication
+- 🔄 Game reset and replay option
+- 🧠 Winner detection and draw handling
+- 💡 Visual feedback for game result
+- 🪄 Simple and intuitive Windows UI for desktop
 
 
 ---
@@ -38,34 +38,34 @@ It marks one of my earliest experiences in software development and user interfa
 
 Since this is a simple desktop game, it doesn't log activities to a file. However, it handles internal states like:
 
-✅ Player turns
-🎯 Move validation
-🏁 Game end state (win/draw)
+- ✅ Player turns
+- 🎯 Move validation
+- 🏁 Game end state (win/draw)
 
 ---
 
 ## Requirements
 
-IDE: Visual Studio (2019 or later recommended)
-Language: C#
-Framework: .NET Framework 4.x
-No internet connection or external dependencies required
+- IDE: Visual Studio (2019 or later recommended)
+- Language: C#
+- Framework: .NET Framework 4.x
+- No internet connection or external dependencies required
 
 ---
 
 ## Testing
 
-Launch the game on Windows via Visual Studio or executable build
-Simulate full games with different win/draw scenarios
-Check correct turn switching and winner detection
-Click "Restart" to ensure board resets correctly
+- Launch the game on Windows via Visual Studio or executable build
+- Simulate full games with different win/draw scenarios
+- Check correct turn switching and winner detection
+- Click "Restart" to ensure board resets correctly
 
 ---
 
 ## Documents
 
 
-📎 [View]()
+📎 [View](https://drive.google.com/file/d/10DmUq5M2JBhi5GeyR2v4w8PSw2swLv6N/view?usp=sharing)
 
 
 
