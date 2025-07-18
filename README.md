@@ -2,11 +2,12 @@
 
 ## Getting Started
 
+🏆 This project was submitted to a regional student competition and proudly achieved a top-10 provincial rank.
+It marks one of my earliest experiences in software development and user interface design.
+
 XO Game is a simple yet fully functional implementation of the classic Tic-Tac-Toe game, developed using C# and Windows Forms (WinForms) in Visual Studio.
 This project was created during the first year of my Computer Science studies and earned a top-ranked place in a provincial student competition.
 
-🏆 This project was submitted to a regional student competition and proudly achieved a top-10 provincial rank.
-It marks one of my earliest experiences in software development and user interface design.
 
 
 ---
